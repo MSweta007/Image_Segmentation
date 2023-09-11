@@ -5,4 +5,5 @@ The libraries used here are :
 2. Matplotlib
 3. Numpy
 4. cv2
+   
 I have used the anaconda spyder to run the code in my machine. The libraries and versions can be checked as per the required compatibility.
